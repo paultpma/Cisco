@@ -1,6 +1,5 @@
 import argparse
 import json
-import sys
 
 def main(fileToRead):
     fileNameList = getFileNameList(fileToRead)
